@@ -21,5 +21,6 @@ To identify the type of breed the pig is having.
     > Run the app.py file and open the link to run the web app 
 
 ## Demo Video: 
-https://user-images.githubusercontent.com/55132850/166875484-1272e45d-ca19-4e52-9433-0d74fa5d8ee9.mp4
+
+https://user-images.githubusercontent.com/55132850/167069886-dfb7bb62-443c-42af-8fd8-031cc100fde1.mp4
 
