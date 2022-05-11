@@ -1,4 +1,4 @@
-# PIG IMAGE CLASSFICATION
+# PIG IMAGE CLASSFICATION (Web app)
 
 ## Problem Statement: 
 
